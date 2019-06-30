@@ -1,0 +1,4 @@
+原理：http://mathworld.wolfram.com/Levenberg-MarquardtMethod.html
+思路：参考matlab代码注释
+           论文4.2.2部分
+
